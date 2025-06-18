@@ -15,8 +15,8 @@ For access to the full dataset, see [Data Access](#data-access) section below.
 If you use this repository in your research, please cite the original paper:
 
 ```bibtex
-@article{DMPF,
-  title={Decoupled Multi-Perspective Fusion for Speech Depression Detection},
+@article{SHE-BP,
+  title={Exploring Multi-source Information Fusion for Cuff-less Blood Pressure Measurement Based on Wearable Watch-type Device},
   author={},
   journal={},
   year={2025},
